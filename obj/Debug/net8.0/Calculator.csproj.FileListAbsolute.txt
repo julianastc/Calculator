@@ -12,3 +12,4 @@
 /home/julianatavares/dev/Calculator/obj/Debug/net8.0/Calculator.pdb
 /home/julianatavares/dev/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
 /home/julianatavares/dev/Calculator/obj/Debug/net8.0/ref/Calculator.dll
+/home/julianatavares/dev/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
